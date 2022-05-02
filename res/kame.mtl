@@ -1,0 +1,121 @@
+# Blender MTL File: 'None'
+# Material Count: 9
+
+newmtl Material
+Ns 323.999994
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+
+newmtl door
+Ns 225.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Bump D:\\moje twory\\blender\\architektura\\kame house\\textures\\SUBSTANCE\\kame house3_door_Normal.png
+map_Kd D:\\moje twory\\blender\\architektura\\kame house\\textures\\SUBSTANCE\\kame house3_door_BaseColor.png
+map_Ns D:\\moje twory\\blender\\architektura\\kame house\\textures\\SUBSTANCE\\kame house3_door_Roughness.png
+refl D:\\moje twory\\blender\\architektura\\kame house\\textures\\SUBSTANCE\\kame house3_door_Metallic.png
+
+newmtl door_inside
+Ns 225.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Bump D:\\moje twory\\blender\\architektura\\kame house\\textures\\SUBSTANCE\\kame house3_door inside_Normal.png
+map_Kd D:\\moje twory\\blender\\architektura\\kame house\\textures\\SUBSTANCE\\kame house3_door inside_BaseColor.png
+map_Ns D:\\moje twory\\blender\\architektura\\kame house\\textures\\SUBSTANCE\\kame house3_door inside_Roughness.png
+refl D:\\moje twory\\blender\\architektura\\kame house\\textures\\SUBSTANCE\\kame house3_door inside_Metallic.png
+
+newmtl hause
+Ns 225.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.779322 0.628349 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Bump D:\\moje twory\\blender\\architektura\\kame house\\textures\\SUBSTANCE\\kame house3_hause_Normal.png
+map_Kd D:\\moje twory\\blender\\architektura\\kame house\\textures\\SUBSTANCE\\kame house3_hause_BaseColor.png
+map_Ns D:\\moje twory\\blender\\architektura\\kame house\\textures\\SUBSTANCE\\kame house3_hause_Roughness.png
+refl D:\\moje twory\\blender\\architektura\\kame house\\textures\\SUBSTANCE\\kame house3_hause_Metallic.png
+
+newmtl metal
+Ns 225.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Bump D:\\moje twory\\blender\\architektura\\kame house\\textures\\SUBSTANCE\\kame house3_metal_Normal.png
+map_Kd D:\\moje twory\\blender\\architektura\\kame house\\textures\\SUBSTANCE\\kame house3_metal_BaseColor.png
+map_Ns D:\\moje twory\\blender\\architektura\\kame house\\textures\\SUBSTANCE\\kame house3_metal_Roughness.png
+refl D:\\moje twory\\blender\\architektura\\kame house\\textures\\SUBSTANCE\\kame house3_metal_BaseColor.png
+
+newmtl roof
+Ns 225.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.051784 0.042933
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Bump D:\\moje twory\\blender\\architektura\\kame house\\textures\\SUBSTANCE\\kame house3_roof_Normal.png
+map_Kd D:\\moje twory\\blender\\architektura\\kame house\\textures\\SUBSTANCE\\kame house3_roof_BaseColor.png
+map_Ns D:\\moje twory\\blender\\architektura\\kame house\\textures\\SUBSTANCE\\kame house3_roof_Roughness.png
+refl D:\\moje twory\\blender\\architektura\\kame house\\textures\\SUBSTANCE\\kame house3_roof_Metallic.png
+
+newmtl white_window_wood
+Ns 225.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Bump D:\\moje twory\\blender\\architektura\\kame house\\textures\\SUBSTANCE\\kame house3_white window wood_Normal.png
+map_Kd D:\\moje twory\\blender\\architektura\\kame house\\textures\\SUBSTANCE\\kame house3_white window wood_BaseColor.png
+map_Ns D:\\moje twory\\blender\\architektura\\kame house\\textures\\SUBSTANCE\\kame house3_white window wood_Roughness.png
+refl D:\\moje twory\\blender\\architektura\\kame house\\textures\\SUBSTANCE\\kame house3_white window wood_Metallic.png
+
+newmtl windows
+Ns 225.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.067780 0.308791 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd d:\\moje twory\\blender\\architektura\\kame house\\textures\\SUBSTANCE\\kame house3_windows_BaseColor.png
+
+newmtl wood
+Ns 225.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Bump D:\\moje twory\\blender\\architektura\\kame house\\textures\\SUBSTANCE\\kame house3_wood_Normal.png
+map_Kd D:\\moje twory\\blender\\architektura\\kame house\\textures\\SUBSTANCE\\kame house3_wood_BaseColor.png
+map_Ns D:\\moje twory\\blender\\architektura\\kame house\\textures\\SUBSTANCE\\kame house3_wood_Roughness.png
+refl D:\\moje twory\\blender\\architektura\\kame house\\textures\\SUBSTANCE\\kame house3_wood_Metallic.png
